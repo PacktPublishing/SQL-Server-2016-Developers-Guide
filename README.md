@@ -9,10 +9,10 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
-#import packages into the project
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import pandas as pd
+EXEC dbo.InsertSimpleOrder
+@OrderId = 5, @OrderDate = '20160702', @Customer = N'CustA';
+EXEC dbo.InsertSimpleOrderDetail
+@OrderId = 5, @ProductId = 1, @Quantity = 50;
 ```
 
 In order to run all of the demo code in this book, you will need SQL Server 2016 Developer
