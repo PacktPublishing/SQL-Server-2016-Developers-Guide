@@ -1,0 +1,6 @@
+C:\SQL2016DevGuide\AEDemo\AEDemo\bin\Debug\AEDemo.exe.config
+C:\SQL2016DevGuide\AEDemo\AEDemo\bin\Debug\AEDemo.exe
+C:\SQL2016DevGuide\AEDemo\AEDemo\bin\Debug\AEDemo.pdb
+C:\SQL2016DevGuide\AEDemo\AEDemo\obj\Debug\AEDemo.csprojResolveAssemblyReference.cache
+C:\SQL2016DevGuide\AEDemo\AEDemo\obj\Debug\AEDemo.exe
+C:\SQL2016DevGuide\AEDemo\AEDemo\obj\Debug\AEDemo.pdb
