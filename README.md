@@ -1,7 +1,7 @@
 # SQL Server 2016 Developer's Guide
 This is the code repository for [SQL Server 2016 Developer's Guide](https://www.packtpub.com/big-data-and-business-intelligence/sql-server-2016-developer-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786465344), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Go to Mapt
+Microsoft SQL Server 2016 is considered the biggest leap in the data platform history of the Microsoft, in the ongoing era of Big Data and data science. Compared to its predecessors, SQL Server 2016 offers developers a unique opportunity to leverage the advanced features and build applications that are robust, scalable, and easy to administer.
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
